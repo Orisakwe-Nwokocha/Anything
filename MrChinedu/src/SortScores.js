@@ -1,5 +1,5 @@
-function sortScores(scores) {
-    return scores.filter((score) => score >= 70);
+function sortScores(testScores) {
+    return testScores.filter((score) => score >= 70);
 }
 
 
