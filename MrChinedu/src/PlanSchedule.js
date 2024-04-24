@@ -1,5 +1,5 @@
 function planSchedule(classes) {
-    return classes.filter((c) => c.match(/PM/) && c.match(/(12|[1-5])/));
+    return classes.filter((c) =>  c.match(/(12|[1-5])/) && c.match(/PM/));
 }
 
 
