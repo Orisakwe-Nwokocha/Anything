@@ -1,1 +1,1 @@
-# This is a test project for JavaScript tasks
+# This is a repository for JavaScript tasks and tests
