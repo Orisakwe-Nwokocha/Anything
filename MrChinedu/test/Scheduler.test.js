@@ -1,4 +1,4 @@
-const {planSchedule} = require("../src/PlanSchedule");
+const {planSchedule} = require("../src/Scheduler");
 
 
 test("plan schedule", () => {
