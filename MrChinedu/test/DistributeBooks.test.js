@@ -1,4 +1,4 @@
-const {distributeBooks} = require('./DistributeBooks');
+const {distributeBooks} = require('../src/DistributeBooks');
 
 
 test("distribute books to members", () => {

@@ -1,4 +1,4 @@
-const {increaseScores} = require('./IncreaseScores');
+const {increaseScores} = require('../src/IncreaseScores');
 
 
 test('increaseScore', () => {

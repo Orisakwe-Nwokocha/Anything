@@ -1,4 +1,4 @@
-const {filter} = require('./HealthyItems');
+const {filter} = require('../src/HealthyItems');
 
 
 test("filter unhealthy items", () => {

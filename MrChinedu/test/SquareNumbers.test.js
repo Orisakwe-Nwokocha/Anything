@@ -1,4 +1,4 @@
-const {squareNumbers} = require('./SquareNumbers');
+const {squareNumbers} = require('../src/SquareNumbers');
 
 
 test("Square each number", () => {

@@ -1,4 +1,4 @@
-const {sortScores} = require('./SortScores');
+const {sortScores} = require('../src/SortScores');
 
 
 test('sortScores correctly', () => {

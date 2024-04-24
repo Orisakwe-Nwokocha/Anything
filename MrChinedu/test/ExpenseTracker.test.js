@@ -1,4 +1,4 @@
-const {calculateTotalAmountSpent} = require('./ExpenseTracker');
+const {calculateTotalAmountSpent} = require('../src/ExpenseTracker');
 
 
 
